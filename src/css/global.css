@@ -6,7 +6,11 @@ body{
 
 html {
     scroll-behavior: smooth;
-  }
+}
+
+:target {
+    scroll-margin-top: 12vh;
+}
 
 a {
     text-decoration: none;
