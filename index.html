@@ -5,6 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     
+    <link rel="stylesheet" href="src/css/reset.css">
+    <link rel="stylesheet" href="src/css/global.css">
+    <link rel="stylesheet" href="src/css/estilo.css">
+
     <title>Estação de monitoramento modular - EMM</title>
 </head>
 <body>
@@ -14,36 +18,46 @@
         </div>
         <div>
             <nav>
-                <a href="#graficos">Gráficos</a>
-                <a href="#">Sobre nós</a>
-                <a href="#">Equipe</a>
-                <a href="#">Novidades</a>
-                <a href="#">Contatos</a>
+                <ul>    
+                    <li><a href="#graficos">Gráficos</a></li>
+
+                    <li><a href="#sobre">Sobre nós</a></li>
+
+                    <li><a href="#equipe">Equipe</a></li>
+
+                    <li><a href="#novidades">Novidades</a></li>
+
+                    <li><a href="#">Contatos</a></li>
+                </ul>
             </nav>
+        </div>
+        <div>
+            <img src="src/img/lupa.svg" alt="Ícone de pesquisa">
         </div>
     </header>
 
     <main>
-        <seletion class="graficos">
+        <seletion id="graficos">
 
         </seletion>
 
-        <section class="sobre">
+        <section id="sobre">
             <div class="titulo-do-sobre">
                 <h2>Sobre nós</h2>
             </div>
 
             <div class="conteudo-sobre">
                 <p>A prosposta inicial do nosso projeto é ajudar a todos os agricultores da nossa região, medindo a temperatura do ar, umidade, luminosidade, dentre outros.</p>
+
+                <a href="#"><button>Saiba mais</button></a>
             </div>
 
-            <a href="#"><button>Saiba mais</button></a>
             <div class="conteudo-do-sobre">
 
             </div>
         </section>
 
-        <seletion class="equipe">
+        <seletion id="equipe">
             <div class="titulo-do-equipe">
                 <h2>Equipe</h2>
             </div>
@@ -80,12 +94,12 @@
                 <img src="src/img/hardware.svg" alt="Símbolo do hardware">
                 <div>
                     <h3>Hardware</h3>
-                    <p>Responsável pela monstagem das placas.</p>
+                    <p>Responsável pela monstagem e pelo código compilado dentro de cada placa.</p>
                 </div>
             </div>
         </seletion>
 
-        <section class="novidades">
+        <section id="novidades">
             <div class="titulo-do-novidades">
                 <h2>Novidades</h2>
             </div>

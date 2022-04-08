@@ -1,0 +1,38 @@
+body{
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+}
+
+html {
+    scroll-behavior: smooth;
+  }
+
+a {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #157DBB;
+    color: #FFFFFF;
+    padding: 20px 0px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+img {
+    cursor: pointer;
+}
+
+main{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 10%;
+}
