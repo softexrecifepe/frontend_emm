@@ -1,22 +1,30 @@
+/* Separei está pagina para fazer as configurações para toda a página! (GLOBAL) */
+
+/* Definir o tamanho de todos os textos para 18px, e adicionei o display flex e o jistify-content para centralizar toda a página */
 body{
     font-size: 18px;
     display: flex;
-    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 
+/* Quando clicar em algum tópico do menu a página irá rolar para baixo com um Scroll suave, por isso coloquei o scroll-behavior: smooth */
 html {
     scroll-behavior: smooth;
 }
 
+/* Para que o Scroll não fosse diretamente em cima do nome, dei um espaçamento negativo para que recue um pouco antes de chegar no titulo. */
 :target {
-    scroll-margin-top: 12vh;
+    scroll-margin-top: 14vh;
 }
 
+/* Tirei todas as decorações que havia nos links e mudei a cor da fonte para branco */
 a {
     text-decoration: none;
     color: #FFFFFF;
 }
 
+/* Centralizei todas as tags que tem no header, coloquei o fundo do header azul e mudei a cor de todas as fonte para a cor branca, também fixei o header no topo da página e alterei o tamanho da largura para 100% */
 header {
     display: flex;
     align-items: center;
@@ -29,14 +37,38 @@ header {
     width: 100%;
 }
 
+/* Qualquer imagem da página terá o tamanho de 18vh (Vh é um tipo de medida) e toda vez que o usuário colocar o mouse por cima da imagem o cursor vai mudar */
 img {
     cursor: pointer;
+    max-width: 18vh
 }
 
+/* O main vai ter o tamanho de 60% da tela toda e vai ter uma margem de 7.5% do topo. Alinhei tudo que está dentro do main e coloquei em colunas */
 main{
-    width: 50%;
+    width: 60%;
     display: flex;
     align-items: center;
     flex-direction: column;
-    margin-top: 10%;
+    margin-top: 7.5%;
+}
+
+/* Os botões vão ter este padrão -> A cor vai ser azul e vai ter a borda sem decoração, além de ter o raio da borda de 10px. A cor do texto será da cor branca e terá uma sombra em baixo do botão. */
+button{
+    padding: 10px 20px;
+    background-color: #22A6F5;
+    border-radius: 10px;
+    color: #FFFFFF;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+/* Deixando o footer azul, a fonte branca e tudo alinhado no centro */
+footer{
+    background-color: #157DBB;
+    width: 100%;
+    height: 11vh;
+    color: #FFFFFF;
+    padding-top: 2vh;
+    display: flex;
+    justify-content: center;
 }
