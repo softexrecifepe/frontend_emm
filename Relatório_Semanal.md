@@ -10,7 +10,7 @@
 ___
 **Relatório da semana (25/07 - 29/07)**
 
-📅  **Apresentação das Demenadas da Semana**
+📅 **Apresentação das Demenadas da Semana**
 Atualizar o texto da página da equipe e adicionar fotos do projeto; Ajustar o carrossel para implementar no site; Adicionar colaboradores do site (Para criar postes do projeto); Colocar os relatórios no GitHub até o dia 31. 
 
 📝 **Desenvolvimento**.
@@ -26,7 +26,7 @@ Posts do site.
 📑 **Pendendentes**.
 Ajustar o carrossel para implementar no site. Adicionar colaboradores do site (Para criar postes do projeto).
 
-🆕  **Novas Demandas**.
+🆕 **Novas Demandas**.
 Analisar os gráficos.
 
 🗒️ **Coclusão**.
@@ -37,61 +37,86 @@ Atualizei o texto da equipe, coloquei algumas fotos e observei o código mas nã
 ___
 **Relatório da semana (18/07 - 22/07)**
 
-📅  Atualizar o texto da página da equipe e adicionar fotos do projeto. Ajustar o carrossel para implementar no site. Adicionar colaboradores do site (Para criar postes do projeto). Analisar os gráficos, e ver se alguma estação está parada.
+📅 **Apresentação das Demenadas da Semana**
+Atualizar o texto da página da equipe e adicionar fotos do projeto. Ajustar o carrossel para implementar no site. Adicionar colaboradores do site (Para criar postes do projeto). Analisar os gráficos, e ver se alguma estação está parada.
 
-📝 Observar as estações, ajustar o carrossel para implementar no site. Atualizar texto da página da equipe.
+📝 **Desenvolvimento**
+Observar as estações, ajustar o carrossel para implementar no site. Atualizar texto da página da equipe.
 
-📊 Observar as estações, atualizar texto da página da equipe.
+📊 **Realizadas**
+Observar as estações, atualizar texto da página da equipe.
 
-🔖 Posts do site.
+🔖 **Travadas**
+Posts do site.
 
-📑 Melhorar o texto e adicionar fotos do projeto. Ajustar o carrossel para implementar no site. Adicionar colaboradores do site (Para criar postes do projeto).
+📑 **Pendendentes**
+Melhorar o texto e adicionar fotos do projeto. Ajustar o carrossel para implementar no site. Adicionar colaboradores do site (Para criar postes do projeto).
 
-🆕 Colocar os relatórios no GitHub até o dia 31.
+🆕 **Novas Demandas**
+Colocar os relatórios no GitHub até o dia 31.
 
-🗒️ Observei os gráficos e vi que estava tudo tranquilo, atualizei o texto da equipe mas preciso ainda preciso melhorar mais, observei o código mas não alterei nada.
+🗒️ **Coclusão**
+Observei os gráficos e vi que estava tudo tranquilo, atualizei o texto da equipe mas preciso ainda preciso melhorar mais, observei o código mas não alterei nada.
 
-📋 Atualizar o texto da página da equipe e adicionar fotos do projeto. Ajustar o carrossel para implementar no site. Adicionar colaboradores do site (Para criar postes do projeto).
-
+📋 **Próximos Passos**
+Atualizar o texto da página da equipe e adicionar fotos do projeto. Ajustar o carrossel para implementar no site. Adicionar colaboradores do site (Para criar postes do projeto).
+___
 **Relatório da semana (11/07 - 15/07)**
 
-📅  Atualizar o texto da página da equipe e adicionar fotos do projeto. Ajustar o carrossel para implementar no site. Adicionar colaboradores do site (Para criar postes do projeto).
+📅  **Apresentação das Demenadas da Semana**
+Atualizar o texto da página da equipe e adicionar fotos do projeto. Ajustar o carrossel para implementar no site. Adicionar colaboradores do site (Para criar postes do projeto).
 
-📝 Apresentação do pitch. Adicionar foto dos participantes. Revisar o WordPress para avaliar se precisa de melhorias em algumas páginas.
+📝 **Desenvolvimento**
+Apresentação do pitch. Adicionar foto dos participantes. Revisar o WordPress para avaliar se precisa de melhorias em algumas páginas.
 
-📊 Adicionar fotos dos participantes. Apresentação do Pitch pessoal. Melhorei a página inicial e o contatos.
+📊 **Realizadas**
+Adicionar fotos dos participantes. Apresentação do Pitch pessoal. Melhorei a página inicial e o contatos.
 
-🔖 Posts do site.
+🔖 **Travadas**
+Posts do site.
 
-📑 Melhorar o texto e adicionar fotos do projeto. Ajustar o carrossel para implementar no site. Adicionar colaboradores do site (Para criar postes do projeto).
+📑 **Pendendentes**
+Melhorar o texto e adicionar fotos do projeto. Ajustar o carrossel para implementar no site. Adicionar colaboradores do site (Para criar postes do projeto).
 
-🆕 Analisar os gráficos.
+🆕 **Novas Demandas**
+Analisar os gráficos.
 
-🗒️ Revisei algumas páginas do WordPress e melhorei a página inicial e a contatos, mas preciso alterar algumas coisas do contatos, exemplo: Email do projeto, horário de funcionamento e telefone do projeto. Adicionei algumas fotos dos participantes da equipe, mas não foram todos, também vou adicionar uma foto do pessoal produzindo.
+🗒️ **Coclusão**
+Revisei algumas páginas do WordPress e melhorei a página inicial e a contatos, mas preciso alterar algumas coisas do contatos, exemplo: Email do projeto, horário de funcionamento e telefone do projeto. Adicionei algumas fotos dos participantes da equipe, mas não foram todos, também vou adicionar uma foto do pessoal produzindo.
 
-📋 Atualizar o texto da página da equipe e adicionar fotos do projeto. Ajustar o carrossel para implementar no site. Adicionar colaboradores do site (Para criar postes do projeto). Observar os gráficos, e ver se alguma estação está parada.
-
+📋 **Próximos Passos**
+Atualizar o texto da página da equipe e adicionar fotos do projeto. Ajustar o carrossel para implementar no site. Adicionar colaboradores do site (Para criar postes do projeto). Observar os gráficos, e ver se alguma estação está parada.
+___
 **Relatório da semana (04/07 - 08/07)**
 
-📅  Ajustar a página de contatos e melhorar o texto da página de equipe do site. Melhorar o pitch e os slides. Ajustar o carrossel para implementar no site. Adicionar colaboradores do site (Para criar postes do projeto).
+📅  **Apresentação das Demenadas da Semana**
+Ajustar a página de contatos e melhorar o texto da página de equipe do site. Melhorar o pitch e os slides. Ajustar o carrossel para implementar no site. Adicionar colaboradores do site (Para criar postes do projeto).
 
-📝 Melhoria do Pitch pessoal e dos slides. Mudança no texto da equipe no site.
+📝 **Desenvolvimento**
+Melhoria do Pitch pessoal e dos slides. Mudança no texto da equipe no site.
 
-📊 Melhorei o pitch e acrescentei mais slides. Mudei o texto da página da equipe.
+📊 **Realizadas**
+Melhorei o pitch e acrescentei mais slides. Mudei o texto da página da equipe.
 
-🔖 Posts do site.
+🔖 **Travadas**
+Posts do site.
 
-📑 Melhorar o texto e adicionar fotos na página equipe e ajustar a página de contatos do site. Ajustar o carrossel para implementar no site. Adicionar colaboradores do site (Para criar postes do projeto).
+📑 **Pendendentes**
+Melhorar o texto e adicionar fotos na página equipe e ajustar a página de contatos do site. Ajustar o carrossel para implementar no site. Adicionar colaboradores do site (Para criar postes do projeto).
 
-🆕 (Sem demandas).
+🆕 **Novas Demandas**
+(Sem demandas).
 
-🗒️ Atualizei o pitch pessoal e os slides. Também alterei o texto da página da equipe, mas preciso melhorar ainda mais.
+🗒️ **Conclusão**
+Atualizei o pitch pessoal e os slides. Também alterei o texto da página da equipe, mas preciso melhorar ainda mais.
 
-📋 Atualizar o texto da página da equipe e adicionar fotos do projeto. Ajustar o carrossel para implementar no site. Adicionar colaboradores do site (Para criar postes do projeto).
-
+📋 **Próximos Passos**
+Atualizar o texto da página da equipe e adicionar fotos do projeto. Ajustar o carrossel para implementar no site. Adicionar colaboradores do site (Para criar postes do projeto).
+___
 **Relatório da semana (27/06 - 01/07)**
 
-📅  Produzir um pitch pessoal. Inserir alguns posts para testar o limite da página e por um limite de postes para ver o que acontece. Ajustar a página de contatos e melhorar o texto da página de equipe do site.
+📅  **Apresentação das Demenadas da Semana**
+Produzir um pitch pessoal. Inserir alguns posts para testar o limite da página e por um limite de postes para ver o que acontece. Ajustar a página de contatos e melhorar o texto da página de equipe do site.
 
 📝 Criação do Pitch pessoal e dos slides.
 
@@ -106,10 +131,11 @@ ___
 🗒️ Criei o pitch, mas vejo que preciso melhorar algumas falas e também os slides. Também determinei os limites da página inicial, mas irei revisar tudo novamente.
 
 📋  Ajustar a página de contatos e melhorar o texto da página de equipe do site. Melhorar o pitch e os slides.
-
+___
 **Relatório da semana (20/06 - 24/06)**
 
-📅  Melhorar os textos e a página inicio do WordPress e adicionar os colaboradores. Estudar um exemplo de carrossel para colocar no site.
+📅  **Apresentação das Demenadas da Semana**
+Melhorar os textos e a página inicio do WordPress e adicionar os colaboradores. Estudar um exemplo de carrossel para colocar no site.
 
 📝 Atualizando a página contatos e inicio do WordPress.
 
@@ -124,10 +150,11 @@ ___
 🗒️ A página contatos já está funcionando corretamente, falta apenas algumas informações adicionais.
 
 📋  Ajustar a página de contatos e melhorar o texto da página de equipe do site.
-
+___
 **Relatório da semana (13/06 - 17/06)**
 
-📅  Estudar JS e melhorar os textos e algumas páginas do WordPress (Início, equipe e contatos).
+📅  **Apresentação das Demenadas da Semana**
+Estudar JS e melhorar os textos e algumas páginas do WordPress (Início, equipe e contatos).
 
 📝 Melhorar das páginas.
 
@@ -142,10 +169,11 @@ ___
 🗒️ O WordPress preciso melhorar na questão de textos e deixar tudo pronto. O carrossel tenho que dar uma estudada em outros exemplos.
 
 📋  Melhorar os textos e a página inicio do WordPress e adicionar os colaboradores. Estudar um exemplo de carrossel para colocar no site.
-
+___
 **Relatório da semana (06/06 - 10/06)**
 
-📅  Estudos no W3School (JavaScript), melhorar o WordPress.
+📅  **Apresentação das Demenadas da Semana**
+Estudos no W3School (JavaScript), melhorar o WordPress.
 
 📝 Estudos no W3School e WordPress.
 
@@ -160,10 +188,11 @@ ___
 🗒️ Estudei um pouco sobre WordPress e procurei alguns vídeos sobre, não achei um vídeo que me guiasse até o que desejava e acabei travando.
 
 📋  Melhorar os textos e algumas páginas do WordPress (Início, equipe e contatos).
-
+___
 **Relatório da semana (30/05 - 03/06)**
 
-📅  Estudos no W3School (JavaScript) para saber mais alguns comandos e colocar nos gráficos.
+📅  **Apresentação das Demenadas da Semana**
+Estudos no W3School (JavaScript) para saber mais alguns comandos e colocar nos gráficos.
 
 📝 Estudos no W3School.
 
