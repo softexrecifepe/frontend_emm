@@ -7,25 +7,34 @@
 > * Post anterior (13/07/2022)
 
 **Para ajudar na escrita dos Relatório use os tópicos a seguir:**
-
+___
 **Relatório da semana (25/07 - 29/07)**
 
-📅  Atualizar o texto da página da equipe e adicionar fotos do projeto; Ajustar o carrossel para implementar no site; Adicionar colaboradores do site (Para criar postes do projeto); Colocar os relatórios no GitHub até o dia 31. 
+📅  **Apresentação das Demenadas da Semana**
+Atualizar o texto da página da equipe e adicionar fotos do projeto; Ajustar o carrossel para implementar no site; Adicionar colaboradores do site (Para criar postes do projeto); Colocar os relatórios no GitHub até o dia 31. 
 
-📝 Escrevendo os relatórios para colocar no GitHub, ajustar o carrossel para implementar no site e atualizar o texto da página equipe e adicionar fotos do projeto.
+📝 **Desenvolvimento**.
+Escrevendo os relatórios para colocar no GitHub, ajustar o carrossel para implementar no site e atualizar o texto da página equipe e adicionar fotos do projeto.
 
-📊 Escrever os relatórios da semana, atualizar texto da página da equipe.
+📊 **Realizadas**.
 
-🔖 Posts do site.
+Escrever os relatórios da semana, atualizar texto da página da equipe.
 
-📑 Ajustar o carrossel para implementar no site. Adicionar colaboradores do site (Para criar postes do projeto).
+🔖 **Travadas** ( precisa de ajuda ou de aprofundamento).
+Posts do site.
 
-🆕 Analisar os gráficos.
+📑 **Pendendentes**.
+Ajustar o carrossel para implementar no site. Adicionar colaboradores do site (Para criar postes do projeto).
 
-🗒️ Atualizei o texto da equipe, coloquei algumas fotos e observei o código mas não alterei nada.
+🆕  **Novas Demandas**.
+Analisar os gráficos.
 
-📋 Ajustar o carrossel para implementar no site. Adicionar colaboradores do site (Para criar postes do projeto).
+🗒️ **Coclusão**.
+Atualizei o texto da equipe, coloquei algumas fotos e observei o código mas não alterei nada.
 
+📋 **Próximos Passos** 
+ Ajustar o carrossel para implementar no site. Adicionar colaboradores do site (Para criar postes do projeto).
+___
 **Relatório da semana (18/07 - 22/07)**
 
 📅  Atualizar o texto da página da equipe e adicionar fotos do projeto. Ajustar o carrossel para implementar no site. Adicionar colaboradores do site (Para criar postes do projeto). Analisar os gráficos, e ver se alguma estação está parada.
