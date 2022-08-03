@@ -37,7 +37,7 @@ ___
 * Analisar os gráficos.
 
 🗒️ **Coclusão**.
-Atualizei o texto da equipe, coloquei algumas fotos e observei o código mas não alterei nada.
+> Atualizei o texto da equipe, coloquei algumas fotos e observei o código mas não alterei nada.
 
 📋 **Próximos Passos** 
 * Ajustar o carrossel para implementar no site;
@@ -73,7 +73,7 @@ ___
 * Colocar os relatórios no GitHub até o dia 31.
 
 🗒️ **Coclusão**
-Observei os gráficos e vi que estava tudo tranquilo, atualizei o texto da equipe mas preciso ainda preciso melhorar mais, observei o código mas não alterei nada.
+> Observei os gráficos e vi que estava tudo tranquilo, atualizei o texto da equipe mas preciso ainda preciso melhorar mais, observei o código mas não alterei nada.
 
 📋 **Próximos Passos**
 * Atualizar o texto da página da equipe e adicionar fotos do projeto;
@@ -109,7 +109,7 @@ ___
 * Analisar os gráficos.
 
 🗒️ **Coclusão**
-Revisei algumas páginas do WordPress e melhorei a página inicial e a contatos, mas preciso alterar algumas coisas do contatos, exemplo: Email do projeto, horário de funcionamento e telefone do projeto. Adicionei algumas fotos dos participantes da equipe, mas não foram todos, também vou adicionar uma foto do pessoal produzindo.
+> Revisei algumas páginas do WordPress e melhorei a página inicial e a contatos, mas preciso alterar algumas coisas do contatos, exemplo: Email do projeto, horário de funcionamento e telefone do projeto. Adicionei algumas fotos dos participantes da equipe, mas não foram todos, também vou adicionar uma foto do pessoal produzindo.
 
 📋 **Próximos Passos**
 * Atualizar o texto da página da equipe e adicionar fotos do projeto;
@@ -147,7 +147,7 @@ ___
 * (Sem demandas).
 
 🗒️ **Conclusão**
-Atualizei o pitch pessoal e os slides. Também alterei o texto da página da equipe, mas preciso melhorar ainda mais.
+> Atualizei o pitch pessoal e os slides. Também alterei o texto da página da equipe, mas preciso melhorar ainda mais.
 
 📋 **Próximos Passos**
 * Atualizar o texto da página da equipe e adicionar fotos do projeto;
@@ -183,7 +183,7 @@ ___
 * (Sem demandas).
 
 🗒️ **Conclusão**
-Criei o pitch, mas vejo que preciso melhorar algumas falas e também os slides. Também determinei os limites da página inicial, mas irei revisar tudo novamente.
+> Criei o pitch, mas vejo que preciso melhorar algumas falas e também os slides. Também determinei os limites da página inicial, mas irei revisar tudo novamente.
 
 📋 **Próximos Passos**
 * Ajustar a página de contatos;
@@ -218,7 +218,7 @@ ___
 * Por um limite de postes na página inicial.
 
 🗒️ **Conclusão**
-A página contatos já está funcionando corretamente, falta apenas algumas informações adicionais.
+> A página contatos já está funcionando corretamente, falta apenas algumas informações adicionais.
 
 📋 **Próximos Passos**
 * Ajustar a página de contatos;
@@ -250,7 +250,7 @@ ___
 * Melhorar o carrossel para colocar no site.
 
 🗒️ **Conclusão**
-O WordPress preciso melhorar na questão de textos e deixar tudo pronto. O carrossel tenho que dar uma estudada em outros exemplos.
+> O WordPress preciso melhorar na questão de textos e deixar tudo pronto. O carrossel tenho que dar uma estudada em outros exemplos.
 
 📋 **Próximos Passos**
 * Melhorar os textos das páginas;
@@ -283,7 +283,7 @@ ___
 * Melhorar o entendimento de JS.
 
 🗒️ **Conclusão**
-Estudei um pouco sobre WordPress e procurei alguns vídeos sobre, não achei um vídeo que me guiasse até o que desejava e acabei travando.
+> Estudei um pouco sobre WordPress e procurei alguns vídeos sobre, não achei um vídeo que me guiasse até o que desejava e acabei travando.
 
 📋 **Próximos Passos**
 * Melhorar os textos e páginas do WordPress (Início, equipe e contatos).
@@ -309,7 +309,7 @@ ___
 * (Sem demandas).
 
 🗒️ **Conclusão**
-Estudei o básico do JS para pensar em como criar alguns tipos de Carrossel para o site.
+> Estudei o básico do JS para pensar em como criar alguns tipos de Carrossel para o site.
 
 📋 **Próximos Passos**
 * Estudar mais JavaScript;
