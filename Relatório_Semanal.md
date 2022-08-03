@@ -141,92 +141,127 @@ ___
 📅  **Apresentação das Demenadas da Semana**
 Produzir um pitch pessoal. Inserir alguns posts para testar o limite da página e por um limite de postes para ver o que acontece. Ajustar a página de contatos e melhorar o texto da página de equipe do site.
 
-📝 Criação do Pitch pessoal e dos slides.
+📝 **Desenvolvimento**
+Criação do Pitch pessoal e dos slides.
 
-📊 Finalizei o pitch e os slides. Determinei os limites de postes na página inicial (Podendo ir para a próxima página).
+📊 **Realizadas**
+Finalizei o pitch e os slides. Determinei os limites de postes na página inicial (Podendo ir para a próxima página).
 
-🔖 Posts do site e o texto da equipe.
+🔖 **Travadas**
+Posts do site e o texto da equipe.
 
-📑 Melhorar texto da página equipe e ajustar a página de contatos do site. Ajustar o carrossel para implementar no site. Adicionar colaboradores do site (Para criar postes do projeto).
+📑 **Pendendentes**
+Melhorar texto da página equipe e ajustar a página de contatos do site. Ajustar o carrossel para implementar no site. Adicionar colaboradores do site (Para criar postes do projeto).
 
-🆕 (Sem demandas).
+🆕 **Novas Demandas**
+(Sem demandas).
 
-🗒️ Criei o pitch, mas vejo que preciso melhorar algumas falas e também os slides. Também determinei os limites da página inicial, mas irei revisar tudo novamente.
+🗒️ **Conclusão**
+Criei o pitch, mas vejo que preciso melhorar algumas falas e também os slides. Também determinei os limites da página inicial, mas irei revisar tudo novamente.
 
-📋  Ajustar a página de contatos e melhorar o texto da página de equipe do site. Melhorar o pitch e os slides.
+📋 **Próximos Passos**
+Ajustar a página de contatos e melhorar o texto da página de equipe do site. Melhorar o pitch e os slides.
 ___
 **Relatório da semana (20/06 - 24/06)**
 
 📅  **Apresentação das Demenadas da Semana**
 Melhorar os textos e a página inicio do WordPress e adicionar os colaboradores. Estudar um exemplo de carrossel para colocar no site.
 
-📝 Atualizando a página contatos e inicio do WordPress.
+📝 **Desenvolvimento**
+Atualizando a página contatos e inicio do WordPress.
 
-📊 Organização do site.
+📊 **Realizadas**
+Organização do site.
 
-🔖 Textos e posts do site.
+🔖 **Travadas**
+Textos e posts do site.
 
-📑 Melhorar texto da página equipe do WordPress e ajustar o carrossel para implementar no site. Adicionar colaboradores do site (Para criar postes do projeto),
+📑 **Pendendentes**
+Melhorar texto da página equipe do WordPress e ajustar o carrossel para implementar no site. Adicionar colaboradores do site (Para criar postes do projeto),
 
-🆕 Produzir um pitch pessoal. Inserir alguns posts para testar o limite da página e por um limite de postes para ver o que acontece.
+🆕 **Novas Demandas**
+Produzir um pitch pessoal. Inserir alguns posts para testar o limite da página e por um limite de postes para ver o que acontece.
 
-🗒️ A página contatos já está funcionando corretamente, falta apenas algumas informações adicionais.
+🗒️ **Conclusão**
+A página contatos já está funcionando corretamente, falta apenas algumas informações adicionais.
 
-📋  Ajustar a página de contatos e melhorar o texto da página de equipe do site.
+📋 **Próximos Passos**
+Ajustar a página de contatos e melhorar o texto da página de equipe do site.
 ___
 **Relatório da semana (13/06 - 17/06)**
 
 📅  **Apresentação das Demenadas da Semana**
 Estudar JS e melhorar os textos e algumas páginas do WordPress (Início, equipe e contatos).
 
-📝 Melhorar das páginas.
+📝 **Desenvolvimento**
+Melhorar das páginas.
 
-📊 Melhoria da página equipe e contatos.
+📊 **Realizadas**
+Melhoria da página equipe e contatos.
 
-🔖 Textos e posts do WordPress.
+🔖 **Travadas**
+Textos e posts do WordPress.
 
-📑 Melhorar o WordPress e ajustar o carrossel para implementar no site.
+📑 **Pendendentes**
+Melhorar o WordPress e ajustar o carrossel para implementar no site.
 
-🆕 Melhorar página inicio e os textos do WordPress, estudar JS e melhorar o carrossel para colocar no site.
+🆕 **Novas Demandas**
+Melhorar página inicio e os textos do WordPress, estudar JS e melhorar o carrossel para colocar no site.
 
-🗒️ O WordPress preciso melhorar na questão de textos e deixar tudo pronto. O carrossel tenho que dar uma estudada em outros exemplos.
+🗒️ **Conclusão**
+O WordPress preciso melhorar na questão de textos e deixar tudo pronto. O carrossel tenho que dar uma estudada em outros exemplos.
 
-📋  Melhorar os textos e a página inicio do WordPress e adicionar os colaboradores. Estudar um exemplo de carrossel para colocar no site.
+📋 **Próximos Passos**
+Melhorar os textos e a página inicio do WordPress e adicionar os colaboradores. Estudar um exemplo de carrossel para colocar no site.
 ___
 **Relatório da semana (06/06 - 10/06)**
 
 📅  **Apresentação das Demenadas da Semana**
 Estudos no W3School (JavaScript), melhorar o WordPress.
 
-📝 Estudos no W3School e WordPress.
+📝 **Desenvolvimento**
+Estudos no W3School e WordPress.
 
-📊 Melhoria no site (WordPress).
+📊 **Realizadas**
+Melhoria no site (WordPress).
 
-🔖 Textos e posts do WordPress, colocar um resumo do Sobre nós na página inicial.
+🔖 **Travadas**
+Textos e posts do WordPress, colocar um resumo do Sobre nós na página inicial.
 
-📑 Estudar JS.
+📑 **Pendendentes**
+Estudar JS.
 
-🆕 Melhorar WordPress e melhorar o entendimento de JS.
+🆕 **Novas Demandas**
+Melhorar WordPress e melhorar o entendimento de JS.
 
-🗒️ Estudei um pouco sobre WordPress e procurei alguns vídeos sobre, não achei um vídeo que me guiasse até o que desejava e acabei travando.
+🗒️ **Conclusão**
+Estudei um pouco sobre WordPress e procurei alguns vídeos sobre, não achei um vídeo que me guiasse até o que desejava e acabei travando.
 
-📋  Melhorar os textos e algumas páginas do WordPress (Início, equipe e contatos).
+📋 **Próximos Passos**
+Melhorar os textos e algumas páginas do WordPress (Início, equipe e contatos).
 ___
 **Relatório da semana (30/05 - 03/06)**
 
 📅  **Apresentação das Demenadas da Semana**
 Estudos no W3School (JavaScript) para saber mais alguns comandos e colocar nos gráficos.
 
-📝 Estudos no W3School.
+📝 **Desenvolvimento**
+Estudos no W3School.
 
-📊 Carrossel.
+📊 **Realizadas**
+Carrossel.
 
-🔖 Organização do WordPress.
+🔖 **Travadas**
+Organização do WordPress.
 
-📑 (Sem pendências).
+📑 **Pendendentes**
+(Sem pendências).
 
-🆕 (Sem demandas).
+🆕 **Novas Demandas**
+(Sem demandas).
 
-🗒️ Estudei o básico do JS para pensar em como criar alguns tipos de Carrossel para o site.
+🗒️ **Conclusão**
+Estudei o básico do JS para pensar em como criar alguns tipos de Carrossel para o site.
 
-📋  Estudar mais JS, melhorar carrossel, melhorar WordPress.
+📋 **Próximos Passos**
+Estudar mais JS, melhorar carrossel, melhorar WordPress.
