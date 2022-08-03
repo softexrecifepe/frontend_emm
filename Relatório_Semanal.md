@@ -11,69 +11,92 @@ ___
 **Relatório da semana (25/07 - 29/07)**
 
 📅 **Apresentação das Demenadas da Semana**
-Atualizar o texto da página da equipe e adicionar fotos do projeto; Ajustar o carrossel para implementar no site; Adicionar colaboradores do site (Para criar postes do projeto); Colocar os relatórios no GitHub até o dia 31. 
+* Atualizar o texto da página da equipe;
+* Adicionar fotos do projeto;
+* Ajustar o carrossel para implementar no site;
+* Adicionar colaboradores do site (Para criar postes do projeto);
+* Colocar os relatórios no GitHub até o dia 31. 
 
 📝 **Desenvolvimento**.
-Escrevendo os relatórios para colocar no GitHub, ajustar o carrossel para implementar no site e atualizar o texto da página equipe e adicionar fotos do projeto.
+- Ajustar o carrossel para implementar no site;
+- Atualizar o texto da página equipe;
+- Adicionar fotos do projeto.
 
 📊 **Realizadas**.
-
-Escrever os relatórios da semana, atualizar texto da página da equipe.
+* Escrever os relatórios da semana;
+* Atualizar texto da página da equipe.
 
 🔖 **Travadas** ( precisa de ajuda ou de aprofundamento).
-Posts do site.
+- Posts do site.
 
 📑 **Pendendentes**.
-Ajustar o carrossel para implementar no site. Adicionar colaboradores do site (Para criar postes do projeto).
+* Ajustar o carrossel para implementar no site;
+* Adicionar colaboradores do site (Para criar postes do projeto).
 
 🆕 **Novas Demandas**.
-Analisar os gráficos.
+* Analisar os gráficos.
 
 🗒️ **Coclusão**.
 Atualizei o texto da equipe, coloquei algumas fotos e observei o código mas não alterei nada.
 
 📋 **Próximos Passos** 
- Ajustar o carrossel para implementar no site. Adicionar colaboradores do site (Para criar postes do projeto).
+* Ajustar o carrossel para implementar no site;
+* Adicionar colaboradores do site (Para criar postes do projeto).
 ___
 **Relatório da semana (18/07 - 22/07)**
 
 📅 **Apresentação das Demenadas da Semana**
-Atualizar o texto da página da equipe e adicionar fotos do projeto. Ajustar o carrossel para implementar no site. Adicionar colaboradores do site (Para criar postes do projeto). Analisar os gráficos, e ver se alguma estação está parada.
+* Atualizar o texto da página da equipe;
+* Adicionar fotos do projeto;
+* Ajustar o carrossel para implementar no site;
+* Adicionar colaboradores do site (Para criar postes do projeto);
+* Analisar os gráficos, e ver se alguma estação está parada.
 
 📝 **Desenvolvimento**
-Observar as estações, ajustar o carrossel para implementar no site. Atualizar texto da página da equipe.
+- Observar as estações;
+- Ajustar o carrossel para implementar no site;
+- Atualizar texto da página da equipe.
 
 📊 **Realizadas**
-Observar as estações, atualizar texto da página da equipe.
+* Observar as estações
+* Atualizar texto da página da equipe.
 
 🔖 **Travadas**
-Posts do site.
+- Posts do site.
 
 📑 **Pendendentes**
-Melhorar o texto e adicionar fotos do projeto. Ajustar o carrossel para implementar no site. Adicionar colaboradores do site (Para criar postes do projeto).
+* Melhorar o texto e adicionar fotos do projeto;
+* Ajustar o carrossel para implementar no site. 
+* Adicionar colaboradores do site (Para criar postes do projeto).
 
 🆕 **Novas Demandas**
-Colocar os relatórios no GitHub até o dia 31.
+* Colocar os relatórios no GitHub até o dia 31.
 
 🗒️ **Coclusão**
 Observei os gráficos e vi que estava tudo tranquilo, atualizei o texto da equipe mas preciso ainda preciso melhorar mais, observei o código mas não alterei nada.
 
 📋 **Próximos Passos**
-Atualizar o texto da página da equipe e adicionar fotos do projeto. Ajustar o carrossel para implementar no site. Adicionar colaboradores do site (Para criar postes do projeto).
+* Atualizar o texto da página da equipe e adicionar fotos do projeto;
+* Ajustar o carrossel para implementar no site;
+* Adicionar colaboradores do site (Para criar postes do projeto).
 ___
 **Relatório da semana (11/07 - 15/07)**
 
 📅  **Apresentação das Demenadas da Semana**
-Atualizar o texto da página da equipe e adicionar fotos do projeto. Ajustar o carrossel para implementar no site. Adicionar colaboradores do site (Para criar postes do projeto).
+* Atualizar o texto da página da equipe e adicionar fotos do projeto; 
+* Ajustar o carrossel para implementar no site;
+* Adicionar colaboradores do site (Para criar postes do projeto).
 
 📝 **Desenvolvimento**
-Apresentação do pitch. Adicionar foto dos participantes. Revisar o WordPress para avaliar se precisa de melhorias em algumas páginas.
+- Apresentação do pitch;
+- Adicionar foto dos participantes;
+- Revisar o WordPress para avaliar se precisa de melhorias em algumas páginas.
 
 📊 **Realizadas**
 Adicionar fotos dos participantes. Apresentação do Pitch pessoal. Melhorei a página inicial e o contatos.
 
 🔖 **Travadas**
-Posts do site.
+- Posts do site.
 
 📑 **Pendendentes**
 Melhorar o texto e adicionar fotos do projeto. Ajustar o carrossel para implementar no site. Adicionar colaboradores do site (Para criar postes do projeto).
