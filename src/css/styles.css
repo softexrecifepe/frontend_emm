@@ -1,0 +1,25 @@
+/* Place your CSS styles in this file */
+
+h1 {
+    text-align: center;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0px 80px
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
+
+.button {
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
