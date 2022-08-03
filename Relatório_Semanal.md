@@ -8,9 +8,10 @@
 
 **Para ajudar na escrita dos Relatório use os tópicos a seguir:**
 ___
+📅 **Apresentação das Demenadas da Semana**
+
 **Relatório da semana (25/07 - 29/07)**
 
-📅 **Apresentação das Demenadas da Semana**
 * Atualizar o texto da página da equipe;
 * Adicionar fotos do projeto;
 * Ajustar o carrossel para implementar no site;
@@ -43,9 +44,10 @@ ___
 * Ajustar o carrossel para implementar no site;
 * Adicionar colaboradores do site (Para criar postes do projeto).
 ___
+📅 **Apresentação das Demenadas da Semana**
+
 **Relatório da semana (18/07 - 22/07)**
 
-📅 **Apresentação das Demenadas da Semana**
 * Atualizar o texto da página da equipe;
 * Adicionar fotos do projeto;
 * Ajustar o carrossel para implementar no site;
@@ -80,9 +82,10 @@ ___
 * Ajustar o carrossel para implementar no site;
 * Adicionar colaboradores do site (Para criar postes do projeto).
 ___
+📅  **Apresentação das Demenadas da Semana**
+
 **Relatório da semana (11/07 - 15/07)**
 
-📅  **Apresentação das Demenadas da Semana**
 * Atualizar o texto da página da equipe e adicionar fotos do projeto; 
 * Ajustar o carrossel para implementar no site;
 * Adicionar colaboradores do site (Para criar postes do projeto).
@@ -117,9 +120,10 @@ ___
 * Adicionar colaboradores do site (Para criar postes do projeto);
 * Observar os gráficos e ver se alguma estação está parada.
 ___
+📅  **Apresentação das Demenadas da Semana**
+
 **Relatório da semana (04/07 - 08/07)**
 
-📅  **Apresentação das Demenadas da Semana**
 * Ajustar a página de contatos;
 * Melhorar o texto da página de equipe do site;
 * Melhorar o pitch e os slides;
@@ -154,9 +158,10 @@ ___
 * Ajustar o carrossel para implementar no site.;
 * Adicionar colaboradores do site (Para criar postes do projeto).
 ___
+📅  **Apresentação das Demenadas da Semana**
+
 **Relatório da semana (27/06 - 01/07)**
 
-📅  **Apresentação das Demenadas da Semana**
 * Produzir um pitch pessoal;
 * Inserir alguns posts para testar o limite da página;
 * Por um limite na quantidade de postes;
@@ -190,9 +195,10 @@ ___
 * Melhorar o texto da página de equipe do site;
 * Melhorar o pitch e os slides.
 ___
+📅  **Apresentação das Demenadas da Semana**
+
 **Relatório da semana (20/06 - 24/06)**
 
-📅  **Apresentação das Demenadas da Semana**
 * Melhorar os textos página equipe do WordPress;
 * Melhorar página inicial do WordPress;
 * Adicionar os colaboradores;
@@ -224,9 +230,10 @@ ___
 * Ajustar a página de contatos;
 * Melhorar o texto da página de equipe do site.
 ___
+📅  **Apresentação das Demenadas da Semana**
+
 **Relatório da semana (13/06 - 17/06)**
 
-📅  **Apresentação das Demenadas da Semana**
 * Estudar JavaScript;
 * Melhorar os textos e algumas páginas do WordPress (Início, equipe e contatos).
 
@@ -258,9 +265,10 @@ ___
 * Adicionar os colaboradores;
 * Estudar um exemplo de carrossel para colocar no site.
 ___
+📅  **Apresentação das Demenadas da Semana**
+
 **Relatório da semana (06/06 - 10/06)**
 
-📅  **Apresentação das Demenadas da Semana**
 * Estudos no W3School (JavaScript);
 * Melhorar o WordPress.
 
@@ -288,9 +296,10 @@ ___
 📋 **Próximos Passos**
 * Melhorar os textos e páginas do WordPress (Início, equipe e contatos).
 ___
+📅  **Apresentação das Demenadas da Semana**
+
 **Relatório da semana (30/05 - 03/06)**
 
-📅  **Apresentação das Demenadas da Semana**
 * Estudos no W3School (JavaScript) para saber mais alguns comandos e colocar nos gráficos.
 
 📝 **Desenvolvimento**
