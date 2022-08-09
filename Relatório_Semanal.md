@@ -7,6 +7,44 @@
 > * Post anterior (13/07/2022)
 
 **Para ajudar na escrita dos Relatório use os tópicos a seguir:**
+
+___
+📅 **Apresentação das Demenadas da Semana**
+
+**Relatório da semana (01/08 - 05/08)**
+
+* Adicionar fotos do projeto;
+* Ajustar o carrossel para implementar no site;
+* Adicionar colaboradores do site (Para criar postes do projeto);
+* Analisar gráficos.
+
+📝 **Desenvolvimento**.
+- Adicionar fotos do projeto;
+- Adicionar colaboradores do site (Para criar postes do projeto).
+
+📊 **Realizadas**.
+* Instalar o Apache2;
+* Colocar o servidor no ar;
+* Instalar o PHP;
+* Gráficos analisados.
+
+🔖 **Travadas** ( precisa de ajuda ou de aprofundamento).
+- Posts do site.
+
+📑 **Pendendentes**.
+* Ajustar o carrossel para implementar no site;
+* Adicionar colaboradores do site (Para criar postes do projeto).
+
+🆕 **Novas Demandas**.
+* Organizar o README.
+
+🗒️ **Coclusão**.
+> Analisei os gráficos e observei que alguns não estão gerando dados, podemos resolver isto entrando em contato com o resposável pela estação. Instalei o Apache2 e coloquei para rodar o PHP dentro do mesmo.
+
+📋 **Próximos Passos** 
+* Ajustar o carrossel para implementar no site;
+* Adicionar colaboradores do site (Para criar postes do projeto);
+* Organizar o README.
 ___
 📅 **Apresentação das Demenadas da Semana**
 
