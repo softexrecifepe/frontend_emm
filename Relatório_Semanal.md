@@ -1,12 +1,79 @@
-# **Relatório Semanal**
+___
+📅 **Apresentação das Demenadas da Semana**
 
-> * Farvo adicionar as os relatórios anteriores
-> * A escrita deste documento deve seguir a orientação de Blog, onde a postagem recente fica sempre acima das postagem passada por em ordem cronológica.
-> * Exmplo:
-> * Post Recente (20/07/2022) 
-> * Post anterior (13/07/2022)
+**Relatório da semana (15/08 - 19/08)**
 
-**Para ajudar na escrita dos Relatório use os tópicos a seguir:**
+* Ajustar o carrossel para implementar no site;
+* Adicionar colaboradores do site (Para criar postes do projeto);
+* Organizar o README;
+* Reunião Quinta-feira (18/08);
+* Utilizar as fotos das redes sociais dos bolsistas como a foto do WP.
+
+📝 **Desenvolvimento**.
+- Configuração do servidor;
+- Estudo do Terminal;
+- Estudo/instalação do WP;
+- Adicionar fotos do projeto.
+
+📊 **Realizadas**.
+
+
+🔖 **Travadas** ( precisa de ajuda ou de aprofundamento).
+* Instalação do WP;
+
+📑 **Pendendentes**.
+
+
+🆕 **Novas Demandas**.
+
+
+🗒️ **Coclusão**.
+
+
+📋 **Próximos Passos** 
+
+___
+📅 **Apresentação das Demenadas da Semana**
+
+**Relatório da semana (08/08 - 12/08)**
+
+* Adicionar fotos do projeto;
+* Ajustar o carrossel para implementar no site;
+* Adicionar colaboradores do site (Para criar postes do projeto);
+* Estudo do Terminal;
+* Estudo/instalação do WP;
+* Organizar o README;
+* Configuração do servidor.
+
+📝 **Desenvolvimento**.
+- Configuração do servidor;
+- Estudo do Terminal;
+- Estudo/instalação do WP;
+- Adicionar fotos do projeto.
+
+📊 **Realizadas**.
+
+
+🔖 **Travadas** ( precisa de ajuda ou de aprofundamento).
+* Instalação do WP;
+
+📑 **Pendendentes**.
+* Ajustar o carrossel para implementar no site;
+* Adicionar colaboradores do site (Para criar postes do projeto).
+
+🆕 **Novas Demandas**.
+* Reunião Quinta-feira (18/08).
+* Utilizar as fotos das redes sociais dos bolsistas como a foto do WP.
+
+🗒️ **Coclusão**.
+
+
+📋 **Próximos Passos** 
+* Ajustar o carrossel para implementar no site;
+* Adicionar colaboradores do site (Para criar postes do projeto);
+* Organizar o README;
+* Reunião Quinta-feira (18/08).
+* Utilizar as fotos das redes sociais dos bolsistas como a foto do WP.
 
 ___
 📅 **Apresentação das Demenadas da Semana**
@@ -19,8 +86,7 @@ ___
 * Analisar gráficos.
 
 📝 **Desenvolvimento**.
-- Adicionar fotos do projeto;
-- Adicionar colaboradores do site (Para criar postes do projeto).
+- Adicionar fotos do projeto.
 
 📊 **Realizadas**.
 * Instalar o Apache2;
