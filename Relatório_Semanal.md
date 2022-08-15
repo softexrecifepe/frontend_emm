@@ -1,5 +1,5 @@
 ___
-📅 **Apresentação das Demenadas da Semana**
+📅 **Apresentação das Demandas da Semana**
 
 **Relatório da semana (15/08 - 19/08)**
 
@@ -21,19 +21,19 @@ ___
 🔖 **Travadas** ( precisa de ajuda ou de aprofundamento).
 * Instalação do WP;
 
-📑 **Pendendentes**.
+📑 **Pendentes**.
 
 
 🆕 **Novas Demandas**.
 
 
-🗒️ **Coclusão**.
+🗒️ **Conclusão**.
 
 
 📋 **Próximos Passos** 
 
 ___
-📅 **Apresentação das Demenadas da Semana**
+📅 **Apresentação das Demandas da Semana**
 
 **Relatório da semana (08/08 - 12/08)**
 
@@ -57,7 +57,7 @@ ___
 🔖 **Travadas** ( precisa de ajuda ou de aprofundamento).
 * Instalação do WP;
 
-📑 **Pendendentes**.
+📑 **Pendentes**.
 * Ajustar o carrossel para implementar no site;
 * Adicionar colaboradores do site (Para criar postes do projeto).
 
@@ -65,8 +65,8 @@ ___
 * Reunião Quinta-feira (18/08).
 * Utilizar as fotos das redes sociais dos bolsistas como a foto do WP.
 
-🗒️ **Coclusão**.
-
+🗒️ **Conclusão**.
+* Esta semana configurei uma parte do servidor e instalei o WP, porém deu alguns problemas, então irei rever algumas partes para achar onde que errei e refazer novamente. Também parei para estudar o Terminal Linux. 
 
 📋 **Próximos Passos** 
 * Ajustar o carrossel para implementar no site;
@@ -76,7 +76,7 @@ ___
 * Utilizar as fotos das redes sociais dos bolsistas como a foto do WP.
 
 ___
-📅 **Apresentação das Demenadas da Semana**
+📅 **Apresentação das Demandas da Semana**
 
 **Relatório da semana (01/08 - 05/08)**
 
@@ -97,14 +97,14 @@ ___
 🔖 **Travadas** ( precisa de ajuda ou de aprofundamento).
 - Posts do site.
 
-📑 **Pendendentes**.
+📑 **Pendentes**.
 * Ajustar o carrossel para implementar no site;
 * Adicionar colaboradores do site (Para criar postes do projeto).
 
 🆕 **Novas Demandas**.
 * Organizar o README.
 
-🗒️ **Coclusão**.
+🗒️ **Conclusão**.
 > Analisei os gráficos e observei que alguns não estão gerando dados, podemos resolver isto entrando em contato com o resposável pela estação. Instalei o Apache2 e coloquei para rodar o PHP dentro do mesmo.
 
 📋 **Próximos Passos** 
@@ -112,7 +112,7 @@ ___
 * Adicionar colaboradores do site (Para criar postes do projeto);
 * Organizar o README.
 ___
-📅 **Apresentação das Demenadas da Semana**
+📅 **Apresentação das Demandas da Semana**
 
 **Relatório da semana (25/07 - 29/07)**
 
@@ -134,21 +134,21 @@ ___
 🔖 **Travadas** ( precisa de ajuda ou de aprofundamento).
 - Posts do site.
 
-📑 **Pendendentes**.
+📑 **Pendentes**.
 * Ajustar o carrossel para implementar no site;
 * Adicionar colaboradores do site (Para criar postes do projeto).
 
 🆕 **Novas Demandas**.
 * Analisar os gráficos.
 
-🗒️ **Coclusão**.
+🗒️ **Conclusão**.
 > Atualizei o texto da equipe, coloquei algumas fotos e observei o código mas não alterei nada.
 
 📋 **Próximos Passos** 
 * Ajustar o carrossel para implementar no site;
 * Adicionar colaboradores do site (Para criar postes do projeto).
 ___
-📅 **Apresentação das Demenadas da Semana**
+📅 **Apresentação das Demandas da Semana**
 
 **Relatório da semana (18/07 - 22/07)**
 
@@ -170,7 +170,7 @@ ___
 🔖 **Travadas**
 - Posts do site.
 
-📑 **Pendendentes**
+📑 **Pendentes**
 * Melhorar o texto e adicionar fotos do projeto;
 * Ajustar o carrossel para implementar no site. 
 * Adicionar colaboradores do site (Para criar postes do projeto).
@@ -178,7 +178,7 @@ ___
 🆕 **Novas Demandas**
 * Colocar os relatórios no GitHub até o dia 31.
 
-🗒️ **Coclusão**
+🗒️ **Conclusão**
 > Observei os gráficos e vi que estava tudo tranquilo, atualizei o texto da equipe mas preciso ainda preciso melhorar mais, observei o código mas não alterei nada.
 
 📋 **Próximos Passos**
@@ -186,7 +186,7 @@ ___
 * Ajustar o carrossel para implementar no site;
 * Adicionar colaboradores do site (Para criar postes do projeto).
 ___
-📅  **Apresentação das Demenadas da Semana**
+📅  **Apresentação das Demandas da Semana**
 
 **Relatório da semana (11/07 - 15/07)**
 
@@ -207,7 +207,7 @@ ___
 🔖 **Travadas**
 - Posts do site.
 
-📑 **Pendendentes**
+📑 **Pendentes**
 * Melhorar o texto e adicionar fotos do projeto;
 * Ajustar o carrossel para implementar no site;
 * Adicionar colaboradores do site (Para criar postes do projeto).
@@ -215,7 +215,7 @@ ___
 🆕 **Novas Demandas**
 * Analisar os gráficos.
 
-🗒️ **Coclusão**
+🗒️ **Conclusão**
 > Revisei algumas páginas do WordPress e melhorei a página inicial e a contatos, mas preciso alterar algumas coisas do contatos, exemplo: Email do projeto, horário de funcionamento e telefone do projeto. Adicionei algumas fotos dos participantes da equipe, mas não foram todos, também vou adicionar uma foto do pessoal produzindo.
 
 📋 **Próximos Passos**
@@ -224,7 +224,7 @@ ___
 * Adicionar colaboradores do site (Para criar postes do projeto);
 * Observar os gráficos e ver se alguma estação está parada.
 ___
-📅  **Apresentação das Demenadas da Semana**
+📅  **Apresentação das Demandas da Semana**
 
 **Relatório da semana (04/07 - 08/07)**
 
@@ -245,7 +245,7 @@ ___
 🔖 **Travadas**
 - Posts do site.
 
-📑 **Pendendentes**
+📑 **Pendentes**
 * Melhorar o texto e adicionar fotos na página equipe;
 * Ajustar a página de contatos do site;
 * Ajustar o carrossel para implementar no site;
@@ -262,7 +262,7 @@ ___
 * Ajustar o carrossel para implementar no site.;
 * Adicionar colaboradores do site (Para criar postes do projeto).
 ___
-📅  **Apresentação das Demenadas da Semana**
+📅  **Apresentação das Demandas da Semana**
 
 **Relatório da semana (27/06 - 01/07)**
 
@@ -282,7 +282,7 @@ ___
 🔖 **Travadas**
 - Posts do site e o texto da equipe.
 
-📑 **Pendendentes**
+📑 **Pendentes**
 - Melhorar texto da página equipe;
 - Ajustar a página de contatos do site.;
 - Ajustar o carrossel para implementar no site;
@@ -299,7 +299,7 @@ ___
 * Melhorar o texto da página de equipe do site;
 * Melhorar o pitch e os slides.
 ___
-📅  **Apresentação das Demenadas da Semana**
+📅  **Apresentação das Demandas da Semana**
 
 **Relatório da semana (20/06 - 24/06)**
 
@@ -317,7 +317,7 @@ ___
 🔖 **Travadas**
 - Textos e posts do site.
 
-📑 **Pendendentes**
+📑 **Pendentes**
 - Melhorar texto da página equipe do WordPress;
 - Ajustar o carrossel para implementar no site;
 - Adicionar colaboradores do site (Para criar postes do projeto),
@@ -334,7 +334,7 @@ ___
 * Ajustar a página de contatos;
 * Melhorar o texto da página de equipe do site.
 ___
-📅  **Apresentação das Demenadas da Semana**
+📅  **Apresentação das Demandas da Semana**
 
 **Relatório da semana (13/06 - 17/06)**
 
@@ -350,7 +350,7 @@ ___
 🔖 **Travadas**
 - Textos e posts do WordPress.
 
-📑 **Pendendentes**
+📑 **Pendentes**
 - Melhorar o WordPress;
 - Ajustar o carrossel para implementar no site.
 
@@ -369,7 +369,7 @@ ___
 * Adicionar os colaboradores;
 * Estudar um exemplo de carrossel para colocar no site.
 ___
-📅  **Apresentação das Demenadas da Semana**
+📅  **Apresentação das Demandas da Semana**
 
 **Relatório da semana (06/06 - 10/06)**
 
@@ -387,7 +387,7 @@ ___
 - Textos e posts do WordPress;
 - Colocar um resumo do Sobre nós na página inicial.
 
-📑 **Pendendentes**
+📑 **Pendentes**
 - Estudar JavaScript.
 
 🆕 **Novas Demandas**
@@ -400,7 +400,7 @@ ___
 📋 **Próximos Passos**
 * Melhorar os textos e páginas do WordPress (Início, equipe e contatos).
 ___
-📅  **Apresentação das Demenadas da Semana**
+📅  **Apresentação das Demandas da Semana**
 
 **Relatório da semana (30/05 - 03/06)**
 
@@ -415,7 +415,7 @@ ___
 🔖 **Travadas**
 - Organização do WordPress.
 
-📑 **Pendendentes**
+📑 **Pendentes**
 * (Sem pendências).
 
 🆕 **Novas Demandas**
