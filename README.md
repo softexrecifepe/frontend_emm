@@ -8,6 +8,12 @@ Este repositório foi construído para visualizar o Blog (Criado no WordPress) e
 ___
 ## 📚 Organização.
 
+**W3School**
+
+- Estações.
+  - _Hospedagem da página;_
+  - _Todas as estações._
+  
 **Blog da Estação**
 
 - WordPress.
@@ -16,20 +22,14 @@ ___
   - _Equipe;_
   - _Novidades;_
   - _Contatos._
-
-**W3School**
-
-- Estações.
-  - _Hospedagem da página;_
-  - _Todas as estações._
 ___
 ## 🔗 Link de acesso.
 
 O link abaixo leva para o WordPress onde foi criado um Blog no qual são publicados e atualizados os posts referentes a Estação de Monitoramento Modular. Também tem um link de acesso para o W3school onde está hospedado a página de todas as estações.
 
-_Link do Blog WordPress:_ https://estacaodemonitoramento.wordpress.com/
-
 _Link das estações:_ https://estacaomm.w3spaces.com/
+
+_Link do Blog WordPress:_ https://estacaodemonitoramento.wordpress.com/
 ___
 
 ## ✔️ Tecnologias utilizadas
