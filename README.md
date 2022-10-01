@@ -43,12 +43,3 @@ ___
 ## 👫 Autores
 
 [<img src="https://avatars.githubusercontent.com/u/93020667?s=400&v=4" width=115><br><sub>Claudio Andrade</sub>](https://github.com/Claudio128)
-
-
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-Organização das Branch's.
-
-Main - Tudo que estar main, ta rodando.
-Update (test) - Tudo que ainda estar em testes.
-Teste (Estudo)-Tudo que está testando, ou que deu inicio e não continuidade, ou ainda não se sabe o uso.
-
