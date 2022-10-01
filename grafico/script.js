@@ -7,13 +7,13 @@ function fazGet(url) {
 }
 
 // Criando uma função para colocar os dados que quero dentro de uma array para que os dados apareça no gráfico.
-function main(info) {
+function temp(info) {
     // Pegando os dados da URL
-    let data = fazGet("https://api.thingspeak.com/channels/1598548/feeds.json?results=2");
+    let data = fazGet("https://api.thingspeak.com/channels/1418948/fields/1.json?results=2");
     // Transformando os dados TXT em JSON
     let dados = JSON.parse(data);
     // Recebendo apenas o resultado do field3
-    let result = dados.feeds[0].field3;
+    let result = dados.feeds[0].field1;
     // Lista vazia
     let lista = [];
     // Colocando o dado do field3 dentro da lista
@@ -22,15 +22,21 @@ function main(info) {
     return lista
 }
 
+function hora(){
+    const date = new Date().toLocaleTimeString();
+
+    return date
+}
+
 const ctx = document.getElementById('myChart')
 
 const labels = [
-    '22:45',
-    '22:50',
-    '22:55',
-    '23:00',
-    '23:05',
-    '23:10',
+    hora(),
+    hora(),
+    hora(),
+    hora(),
+    hora(),
+    hora(),
 ];
 
 const data = {
@@ -39,7 +45,7 @@ const data = {
       label: 'My First dataset',
       backgroundColor: 'rgb(255, 99, 132)',
       borderColor: 'rgb(255, 99, 132)',
-      data: main(),
+      data: temp(),
     }]
 };
 
