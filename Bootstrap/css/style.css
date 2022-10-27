@@ -2,6 +2,14 @@
     padding: 15px 0px;
 }
 
+.hidden {
+    visibility: hidden;
+}
+
+.fixed-top {
+    transition: 2s ease-in-out;
+}
+
 .title a{
     color: #ffffff;
     font-weight: 600;

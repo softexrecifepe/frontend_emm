@@ -1,8 +1,13 @@
-$(window).scroll(function() {
-    var scroll = $(window).scrollTop();
-    if (scroll >= 1) { // 140 é a distancia que vc rola antes da logo sumir
-      $("#main-header").removeClass("et-fixed-header");
-    } else {
-      $("#main-header").addClass("et-fixed-header");
-    }
-  });
+document.addEventListener("scroll", function() {
+  var posicaoy = window.pageYOffset;
+  if (posicaoy <= 100) {
+    const nav = document.getElementById("main-header");
+    nav.classList.remove("fixed-top");
+    nav.classList.add("hidden");
+  }
+  else{
+    const nav = document.getElementById("main-header");
+    nav.classList.add("fixed-top");
+    nav.classList.remove("hidden")
+  }
+});
