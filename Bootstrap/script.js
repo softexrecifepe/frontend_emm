@@ -8,7 +8,6 @@ window.onscroll = function() {
   } else {
     document.getElementById("navbar").style.top = "-70px";
     const nav = document.getElementById("main-header");
-    nav.classList.add("hidden");
   }
   prevScrollpos = currentScrollPos;
 }
