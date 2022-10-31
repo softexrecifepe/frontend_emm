@@ -90,10 +90,6 @@ main {
     font-weight: 600;
 }
 
-.carousel-item{
-    position: sticky;
-}
-
 .carousel{
     display: flex;
     justify-content: center;
