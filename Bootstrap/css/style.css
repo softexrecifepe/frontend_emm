@@ -8,6 +8,7 @@
 /* Espaçamento menu */
 .navbar {
     padding: 15px 0px;
+    position: fixed;
 }
 
 /* Fazendo o menu desaparecer */
@@ -15,10 +16,13 @@
     visibility: hidden;
 }
 
+header{
+    position: relative;
+}
+
 /* Ajustando o menu: Fixando, deixando no topo, largura total e uma transição para não ficar muito grosseiro ao aparecer */
 #navbar {
     position: fixed; /* Make it stick/fixed */
-    top: 0; /* Stay on top */
     width: 100%; /* Full width */
     transition: top .8s; /* Transition effect when sliding down (and up) */
 }
@@ -68,6 +72,14 @@ main {
     gap: 6rem 0rem;
 }
 
+#img-inicial{
+    width: 100%;
+}
+
+.card {
+    position: static;
+}
+
 .div-cards{
     display: flex;
     justify-content: space-around;
@@ -78,6 +90,17 @@ main {
     font-weight: 600;
 }
 
-#img-inicial{
-    width: 100%;
+.carousel-item{
+    position: sticky;
+}
+
+.carousel{
+    display: flex;
+    justify-content: center;
+    max-width: 40%;
+}
+
+.carousel-center {
+    display: flex;
+    justify-content: center;
 }

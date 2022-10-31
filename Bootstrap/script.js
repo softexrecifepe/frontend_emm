@@ -7,7 +7,6 @@ window.onscroll = function() {
     nav.classList.remove("hidden")
   } else {
     document.getElementById("navbar").style.top = "-70px";
-    const nav = document.getElementById("main-header");
   }
   prevScrollpos = currentScrollPos;
 }
