@@ -8,16 +8,11 @@
 /* Espaçamento menu */
 .navbar {
     padding: 15px 0px;
-    position: fixed;
 }
 
 /* Fazendo o menu desaparecer */
 .hidden {
     visibility: hidden;
-}
-
-header{
-    position: relative;
 }
 
 /* Ajustando o menu: Fixando, deixando no topo, largura total e uma transição para não ficar muito grosseiro ao aparecer */
@@ -88,15 +83,4 @@ main {
 
 .card-title {
     font-weight: 600;
-}
-
-.carousel{
-    display: flex;
-    justify-content: center;
-    max-width: 40%;
-}
-
-.carousel-center {
-    display: flex;
-    justify-content: center;
 }
