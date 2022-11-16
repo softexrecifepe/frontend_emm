@@ -5,7 +5,7 @@ function fazGet(url) {
     request.send()
     return request.responseText
 }
-
+z
 // Pegando os dados da URL
 let dataL = fazGet("https://api.thingspeak.com/channels/1418948/fields/1.json?results=2");
 // Transformando os dados TXT em JSON
