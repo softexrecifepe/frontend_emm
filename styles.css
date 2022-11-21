@@ -4,7 +4,7 @@ h1 {
     font-weight: normal;
 }
 
-body > a {
+main > a {
   display: flex;
   justify-content: center;
   text-decoration: none;
@@ -16,7 +16,8 @@ main {
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    gap: 0px 100px
+    gap: 0px 100px;
+    height: 500px;
 }
 
 div {
@@ -29,6 +30,25 @@ div {
     margin-bottom: 3%;
 }*/
 
+#estacao {
+  margin-top: -26rem;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+#voltar {
+  margin: 2rem;
+}
+
 .button a {
   margin: 3%;
+}
+
+.hidden {
+  visibility: hidden;
+}
+
+.teste {
+  overflow: hidden;
 }
