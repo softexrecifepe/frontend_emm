@@ -7,7 +7,7 @@ function fablab(){
 function afogados(){
     document.getElementById('title').innerHTML="Afogados da Ingazeira/PE";
     document.getElementById('id').src="https://thingspeak.com/channels/1638963/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15";
-    setTimeout("camponesa()", 3000)
+    setTimeout("marcos()", 3000)
 }
 
 /*
@@ -18,11 +18,13 @@ function anderson(){
     }
 */
 
+/*
 function camponesa(){
     document.getElementById('title').innerHTML="Escola Camponesa - Lagoa Seca/PB";
     document.getElementById('id').src="https://thingspeak.com/channels/1686704/charts/1?bgcolor=%23ffffff&color=%23d62020&days=30&dynamic=true&results=100&title=Temperatura+-+%C2%BAC&type=spline&xaxis=Tempo+Decorrido+%2F+Hora&yaxis=Graus+Celsios++-+%C2%BAC";
     setTimeout("marcos()", 3000)
 }
+*/
 
 /*
 function caruaru(){
@@ -90,15 +92,15 @@ function marina(){
 function mirandiba(){
     document.getElementById('title').innerHTML="Mirandiba/PE";
     document.getElementById('id').src="https://thingspeak.com/channels/1638970/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&type=line&update=15";
+    setTimeout("sitioalagoinha()", 3000)
+}
+
+function sitioalagoinha(){
+    document.getElementById('title').innerHTML="Sítio Alagoinha - Petrolina/PE";
+    document.getElementById('id').src="https://thingspeak.com/channels/1598675/charts/1?bgcolor=%23ffffff&color=%23d62020&days=30&dynamic=true&results=100&title=Temperatura+-+%C2%BAC&type=spline&xaxis=Tempo+Decorrido+%2F+Hora&yaxis=Graus+Celsios++-+%C2%BAC";
     setTimeout("fablab()", 3000)
 }
-/*
-function sitioalagoinha(){
-    document.getElementById('title').innerHTML="Sítio Alagoinha - (Distrito Rajada) Petrolina/PE";
-    document.getElementById('id').src="https://thingspeak.com/channels/1598675/charts/1?bgcolor=%23ffffff&color=%23d62020&days=30&dynamic=true&results=100&title=Temperatura+-+%C2%BAC&type=spline&xaxis=Tempo+Decorrido+%2F+Hora&yaxis=Graus+Celsios++-+%C2%BAC";
-    setTimeout("camponesa()", 3000)
-}
-*/
+
 
 /*
 function sitiocruz(){
