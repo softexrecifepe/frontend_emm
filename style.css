@@ -52,6 +52,10 @@ section div {
     margin-top: 3em;
 }
 
+section {
+    margin-right: 1rem;
+}
+
 section iframe {
     margin-top: 1rem;
     border: 1px solid #000000;
