@@ -134,11 +134,10 @@ label, img, input {
         flex-direction: column;
         background-color: #0d6efd;
         width: 350px;
-        height: 170%;
+        height: 100%;
         left: -350px;
         position: absolute;
         transition: .5s;
-        top: -30rem;
     }
 
     label, img, input {
@@ -218,11 +217,10 @@ label, img, input {
         flex-direction: column;
         background-color: #0d6efd;
         width: 250px;
-        height: 170%;
+        height: 100%;
         left: -250px;
         position: absolute;
         transition: .5s;
-        top: -24rem;
     }
 
     label, img, input {
@@ -289,11 +287,10 @@ label, img, input {
         flex-direction: column;
         background-color: #0d6efd;
         width: 200px;
-        height: 170%;
+        height: 120%;
         left: -200px;
         position: absolute;
         transition: .5s;
-        top: -18rem;
     }
 
     label, img, input {
