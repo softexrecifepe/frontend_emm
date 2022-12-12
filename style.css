@@ -138,6 +138,7 @@ label, img, input {
         left: -350px;
         position: absolute;
         transition: .5s;
+        top: -30rem;
     }
 
     label, img, input {
@@ -221,6 +222,7 @@ label, img, input {
         left: -250px;
         position: absolute;
         transition: .5s;
+        top: -24rem;
     }
 
     label, img, input {
@@ -291,6 +293,7 @@ label, img, input {
         left: -200px;
         position: absolute;
         transition: .5s;
+        top: -18rem;
     }
 
     label, img, input {
