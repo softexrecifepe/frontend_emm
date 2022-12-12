@@ -84,12 +84,6 @@ html {
     scroll-behavior: smooth;
 }
 
-h2 {
-    margin-top: 5rem;
-    text-align: center;
-    width: 50%;
-}
-
 label, img, input {
     visibility: hidden;
 }
@@ -111,6 +105,8 @@ label, img, input {
 #sitiocruz{
     padding-top: 9.2rem;
 }
+
+/* RESPONSIVE 1110px*/
 
 @media screen and (max-width:1110px) {
     a {
@@ -169,5 +165,97 @@ label, img, input {
         padding: 15px;
         position: absolute;
         z-index: 1;
+    }
+
+    h1 {
+        font-size: 26px;
+    }
+
+    #aba,
+    #afogados,
+    #anderson,
+    #camponesa,
+    #caruaru,
+    #claudio,
+    #clecio,
+    #eduardo,
+    #esdras,
+    #lucivanio,
+    #marcos,
+    #marina,
+    #mirandiba,
+    #alagoinha,
+    #sitiocruz{
+        padding-top: 2.5rem;
+    }
+}
+
+/* RESPONSIVE 750px */
+@media screen and (max-width:750px) {
+    a {
+        text-decoration: none;
+        color: black;
+    }
+    
+    body {
+        font-family: arial;
+    }
+    
+    ul {
+        list-style: none;
+    }
+    
+    img {
+        width: 40px;
+    }
+    
+    input[type="checkbox"]{
+        display: none;
+    }
+    
+    nav {
+        flex-direction: column;
+        background-color: #0d6efd;
+        width: 250px;
+        height: 170%;
+        left: -250px;
+        position: absolute;
+        transition: .5s;
+    }
+
+    label, img, input {
+        visibility: visible;
+    }
+    
+    input[type="checkbox"]:checked ~ nav {
+        transform: translateX(250px);
+    }
+    
+    ul {
+        top: 70px;
+        position: relative;
+        width: 100%;
+        border: 5px solid #0d6efd;
+    }
+    
+    a {
+        display: block;
+        padding: 10px 5px;
+        color: #ffffff;
+    }
+    
+    label {
+        padding: 15px;
+        position: absolute;
+        z-index: 1;
+    }
+
+    h1 {
+        font-size: 21px;
+        justify-content: center;
+    }
+
+    h3 {
+        font-size: 18px;
     }
 }
