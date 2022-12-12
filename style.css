@@ -217,7 +217,7 @@ label, img, input {
         flex-direction: column;
         background-color: #0d6efd;
         width: 250px;
-        height: 120%;
+        height: 150%;
         left: -250px;
         position: absolute;
         transition: .5s;
