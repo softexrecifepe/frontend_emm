@@ -6,34 +6,88 @@ body {
     background-color: #ffffff;
 }
 
-nav {
-    top: -1px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 0 3rem;
-    background-color: #4a97fd;
-    height: 10rem;
-    position: fixed;
+ul {
+    list-style: none;
 }
 
-button {
+#img {
+    width: 40px;
+    cursor: pointer;
+}
+
+input[type="checkbox"]{
+    display: none;
+}
+
+nav {
+    background-color: #0d6efd;
+    width: 350px;
+    height: 126%;
+    left: -350px;
+    position: absolute;
+    transition: .5s;
+}
+
+input[type="checkbox"]:checked ~ nav {
+    transform: translateX(350px);
+}
+
+ul {
+    top: 70px;
+    position: relative;
+    width: 100%;
+    border: 5px solid #0d6efd;
+}
+
+a {
+    font-size: 16px;
+    display: block;
+    padding: 13px 5px;
+    color: #ffffff;
+}
+
+a:hover {
+    background-color: #ffffff;
+    color: #0d6efd;
+}
+
+label {
+    padding: 15px;
+    position: absolute;
+    z-index: 1;
+}
+
+#topo {
+    margin-top: 6rem;
+}
+
+.disabled {
+    color: currentColor;
+    cursor: not-allowed;
+    opacity: 0.5;
+    text-decoration: none;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    margin: 3rem;
+}
+
+.button button {
     background-color: #ffffff;
     border: 1px solid #000000;
     border-radius: 5px;
     padding: 10px;
     transition: .3s;
+    font-size: 14px;
 }
 
-button:hover {
-    transform: scale(1.2);
+
+.button button:hover {
+    transform: scale(1.1);
 }
 
-button:disabled {
-    transform: scale(1);
-    cursor: default;
-}
 
 h1 {
     display: flex;
@@ -63,29 +117,13 @@ section iframe {
     border: 1px solid #000000;
 }
 
-.button {
-    display: flex;
-    justify-content: center;
-    margin: 3rem;
-}
 
 a {
     text-decoration: none;
 }
 
-button {
-    font-size: 14px;
-    border: 1px solid #000000;
-    border-radius: 5px;
-    cursor: pointer;
-}
-
 html {
     scroll-behavior: smooth;
-}
-
-label, img, input {
-    visibility: hidden;
 }
 
 #aba,
