@@ -2,6 +2,10 @@
     font-size: 12px;
 }
 
+.hidden {
+    visibility: hidden;
+}
+
 body {
     background-color: #ffffff;
 }
@@ -13,6 +17,7 @@ ul {
 #img {
     width: 40px;
     cursor: pointer;
+    position: fixed;
 }
 
 input[type="checkbox"]{
@@ -22,10 +27,11 @@ input[type="checkbox"]{
 nav {
     background-color: #0d6efd;
     width: 350px;
-    height: 126%;
+    height: 99.99%;
     left: -350px;
-    position: absolute;
+    position: fixed;
     transition: .5s;
+    overflow-y: scroll;
 }
 
 input[type="checkbox"]:checked ~ nav {

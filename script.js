@@ -13,9 +13,11 @@ function clickimg() {
 };
 
 function menuon() {
-    document.getElementById("img").src = "list-b.svg"
+    const element = document.querySelector('#img');
+    element.classList.add('hidden');
 }
 
 function menuoff() {
-    document.getElementById("img").src = "list.svg"
+    const element = document.querySelector('#img');
+    element.classList.remove('hidden');
 }
