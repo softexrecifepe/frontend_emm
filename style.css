@@ -1,14 +1,14 @@
 *{
     font-size: 12px;
 }
+body {
+    background-color: #ffffff;
+}
 
 .hidden {
     visibility: hidden;
 }
 
-body {
-    background-color: #ffffff;
-}
 
 ul {
     list-style: none;
@@ -244,6 +244,71 @@ html {
     #alagoinha,
     #sitiocruz{
         padding-top: 2.5rem;
+    }
+}
+
+/* RESPONSIVE 1400px */
+@media screen and (max-width:1400px) {
+    ul {
+        list-style: none;
+    }
+    
+    #img {
+        width: 40px;
+        cursor: pointer;
+        position: fixed;
+    }
+    
+    input[type="checkbox"]{
+        display: none;
+    }
+    
+    nav {
+        background-color: #0d6efd;
+        width: 350px;
+        height: 99.99%;
+        left: -350px;
+        position: fixed;
+        transition: .5s;
+        overflow-y: scroll;
+    }
+    
+    input[type="checkbox"]:checked ~ nav {
+        transform: translateX(350px);
+    }
+    
+    ul {
+        top: 70px;
+        position: relative;
+        width: 100%;
+        border: 5px solid #0d6efd;
+    }
+    
+    a {
+        font-size: 16px;
+        display: block;
+        padding: 13px 22px;
+        color: #ffffff;
+    }
+    
+    a:hover {
+        background-color: #ffffff;
+        color: #0d6efd;
+    }
+    
+    label {
+        padding: 15px;
+        position: absolute;
+        z-index: 1;
+    }
+    
+    #topo {
+        margin-top: 6rem;
+    }
+
+    h1 {
+        font-size: 30px;
+        margin-top: 2.5rem;
     }
 }
 /* RESPONSIVE 1110px*/
