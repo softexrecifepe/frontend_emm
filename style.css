@@ -155,6 +155,97 @@ html {
     padding-top: 2rem;
 }
 
+/* RESPONSIVE 1920 */
+@media screen and (max-width:1920px) {
+    a {
+        text-decoration: none;
+        color: black;
+        font-size: 23px;
+    }
+
+    #topo {
+        margin-top: 8rem;
+    }
+    
+    body {
+        font-family: arial;
+    }
+    
+    ul {
+        list-style: none;
+    }
+    
+    #img {
+        width: 60px;
+    }
+    
+    input[type="checkbox"]{
+        display: none;
+    }
+    
+    nav {
+        background-color: #0d6efd;
+        width: 350px;
+        height: 99.99%;
+        left: -350px;
+        position: fixed;
+        transition: .5s;
+        overflow-y: scroll;
+    }
+
+    label, img, input {
+        visibility: visible;
+    }
+    
+    input[type="checkbox"]:checked ~ nav {
+        transform: translateX(350px);
+    }
+    
+    ul {
+        top: 70px;
+        position: relative;
+        width: 100%;
+        border: 5px solid #0d6efd;
+    }
+    
+    a {
+        display: block;
+        padding: 18px 30px;
+        color: #ffffff;
+    }
+    
+    label {
+        padding: 15px;
+        position: absolute;
+        z-index: 1;
+    }
+
+    h1 {
+        font-size: 35px;
+    }
+
+    section {
+        margin-right: 5rem;
+    }
+
+    #aba,
+    #afogados,
+    #anderson,
+    #camponesa,
+    #caruaru,
+    #claudio,
+    #clecio,
+    #eduardo,
+    #esdras,
+    #lucivanio,
+    #marcos,
+    #marina,
+    #mirandiba,
+    #alagoinha,
+    #sitiocruz{
+        padding-top: 2.5rem;
+    }
+}
 /* RESPONSIVE 1110px*/
 
 @media screen and (max-width:1110px) {
@@ -180,13 +271,13 @@ html {
     }
     
     nav {
-        flex-direction: column;
         background-color: #0d6efd;
         width: 350px;
-        height: 100%;
+        height: 99.99%;
         left: -350px;
-        position: absolute;
+        position: fixed;
         transition: .5s;
+        overflow-y: scroll;
     }
 
     label, img, input {
@@ -206,7 +297,7 @@ html {
     
     a {
         display: block;
-        padding: 10px 5px;
+        padding: 18px 25px;
         color: #ffffff;
     }
     
@@ -244,6 +335,7 @@ html {
     a {
         text-decoration: none;
         color: black;
+        font-size: 19px;
     }
     
     body {
@@ -254,22 +346,22 @@ html {
         list-style: none;
     }
     
-    img {
-        width: 40px;
+    #img {
+        width: 39px;
     }
     
     input[type="checkbox"]{
         display: none;
     }
-    
+
     nav {
-        flex-direction: column;
         background-color: #0d6efd;
         width: 250px;
         height: 100%;
         left: -250px;
-        position: absolute;
+        position: fixed;
         transition: .5s;
+        overflow-y: scroll;
     }
 
     label, img, input {
@@ -289,7 +381,7 @@ html {
     
     a {
         display: block;
-        padding: 10px 5px;
+        padding: 21.5px 25px;
         color: #ffffff;
     }
     
@@ -307,6 +399,10 @@ html {
     h3 {
         font-size: 18px;
     }
+
+    #topo {
+        margin-top: 6rem;
+    }
 }
 
 /* RESPONSIVE 500px */
@@ -314,6 +410,7 @@ html {
     a {
         text-decoration: none;
         color: black;
+        font-size: 14px;
     }
     
     body {
@@ -324,8 +421,8 @@ html {
         list-style: none;
     }
     
-    img {
-        width: 40px;
+    #img {
+        width: 39px;
     }
     
     input[type="checkbox"]{
@@ -333,13 +430,13 @@ html {
     }
     
     nav {
-        flex-direction: column;
         background-color: #0d6efd;
         width: 200px;
-        height: 120%;
+        height: 100%;
         left: -200px;
-        position: absolute;
+        position: fixed;
         transition: .5s;
+        overflow-y: scroll;
     }
 
     label, img, input {
@@ -359,7 +456,7 @@ html {
     
     a {
         display: block;
-        padding: 10px 5px;
+        padding: 6px 18px;
         color: #ffffff;
     }
     
@@ -372,9 +469,18 @@ html {
     h1 {
         font-size: 18px;
         justify-content: center;
+        margin-bottom: -1rem;
     }
 
     h3 {
+        margin-left: 3rem;
         font-size: 16px;
+        margin-top: 2rem;
+        margin-bottom: 1rem;
+    }
+
+
+    iframe {
+        margin-left: 5rem;
     }
 }
