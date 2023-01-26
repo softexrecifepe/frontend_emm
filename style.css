@@ -307,6 +307,8 @@ html {
     }
 
     h1 {
+        display: flex;
+        justify-content: center;
         font-size: 30px;
         margin-top: 2.5rem;
     }
