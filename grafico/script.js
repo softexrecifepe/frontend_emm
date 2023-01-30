@@ -1,12 +1,10 @@
-const url = "https://api.thingspeak.com/channels/1638970/status.json";
+const url = "https://api.thingspeak.com/channels/1638970/feeds.json?results=60";
 
-async function getAllData() {
+async function start() {
     const response = await fetch(url);
-
     console.log(response);
 
     const data = await response.json();
-
     console.log(data);
     
     const name = data.channel.field1
@@ -17,7 +15,7 @@ async function getAllData() {
     const ctx = document.getElementById('myChart');
     
     new Chart(ctx, {
-        type: 'bar',
+        type: 'line',
         data: {
         labels: [hora, 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
         datasets: [{
@@ -36,4 +34,4 @@ async function getAllData() {
     });
 }
 
-getAllData();
+start();
