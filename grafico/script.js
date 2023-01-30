@@ -1,76 +1,39 @@
-// Criando uma função para poder receber os dados da URL
-function fazGet(url) {
-    let request = new XMLHttpRequest()
-    request.open("GET", url, false)
-    request.send()
-    return request.responseText
-}
-z
-// Pegando os dados da URL
-let dataL = fazGet("https://api.thingspeak.com/channels/1418948/fields/1.json?results=2");
-// Transformando os dados TXT em JSON
-let dados = JSON.parse(dataL);
+const url = "https://api.thingspeak.com/channels/1638970/status.json";
 
-// Criando uma função para colocar os dados que quero dentro de uma array para que os dados apareça no gráfico.
-function temp() {
-    // Recebendo apenas o resultado do field3
-    let result = dados.feeds[0].field1;
-    // Lista vazia
-    let lista = [];
-    // Colocando o dado do field3 dentro da lista
-    lista.push(result);
-    // Retornando o valor dentro da lista
-    return lista
-}
+async function getAllData() {
+    const response = await fetch(url);
 
-function name() {
-    // Recebendo apenas o resultado do name dentro do channel
-    let resultName = dados.channel.name;
-    // Lista vazia
-    let lista = [];
-    // Colocando o dado do name dentro da lista
-    lista.push(resultName);
-    return lista
-}
+    console.log(response);
 
-//function autoRefresh() {
-//    window.location = window.location.href;
-//}
-//setInterval('autoRefresh()', 5000);
+    const data = await response.json();
 
-function hora(){
-    const date = new Date().toLocaleTimeString();
+    console.log(data);
     
-    return date
+    const name = data.channel.field1
+    let hora = data.feeds[0].created_at
+    let valor = data.feeds[0].field1
+    
+    console.log(valor)
+    const ctx = document.getElementById('myChart');
+    
+    new Chart(ctx, {
+        type: 'bar',
+        data: {
+        labels: [hora, 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
+        datasets: [{
+            label: name,
+            data: [valor, 19, 3, 5, 2, 3],
+            borderWidth: 1
+        }]
+        },
+        options: {
+        scales: {
+            y: {
+            beginAtZero: true
+            }
+        }
+        }
+    });
 }
 
-const ctx = document.getElementById('myChart')
-
-const labels = [
-    hora(),
-    hora(),
-    hora(),
-    hora(),
-    hora(),
-    hora(),
-];
-
-const data = {
-    labels: labels,
-    datasets: [{
-      label: name(),
-      backgroundColor: 'rgb(255, 99, 132)',
-      borderColor: 'rgb(255, 99, 132)',
-      data: temp(),
-    }]
-};
-
-const config = {
-    type: 'line',
-    data: data,
-    options: {
-        responsive: true
-    }
-};
-
-const myChart = new Chart(ctx, config)
+getAllData();
